@@ -11,7 +11,7 @@ Installation should be as easy as
 ```
 But if it doesn't work, consult the documentation for help.
 
-### Simulating experiments across many jobs
+### Simulating experiments across many processors
 
 In this repo, I demonstrate how to run a simple experiment across many processors and collect their output. To show this, I have a very simple experiment in mind.
 
